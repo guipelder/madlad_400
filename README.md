@@ -30,7 +30,7 @@ Open a browser window and navigate to URL shown in console (usually `http://127.
 there was problem with reading directly from input.txt file which was related to the 
 
 ## Authors
-* **Mehdi Hosseini**  - [ Github ](https://github.com/guipelder)
+* **Guipelder**  - [ Github ](https://github.com/guipelder)
 
 
 ## License
